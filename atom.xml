@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GzREN&#39;s Blog</title>
+  <title>个人成长记录小站</title>
   
   <subtitle>Personal Blog</subtitle>
   <link href="https://www.rengz.cn/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>https://www.rengz.cn/</id>
   
   <author>
-    <name>Gz REN</name>
+    <name>咸鱼本咸</name>
     
   </author>
   
